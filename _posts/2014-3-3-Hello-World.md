@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: New website
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is my new website since the old APEX hosted site went out of business.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Site config page ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Based on a fork of [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
