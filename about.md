@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Steve is an experienced database administrator and lifetime learner in the Oracle community.  He is continually seeking out new ideas and strategic plans for maximizing current and future information technology systems.  His ideas and expertise allows him to produce excellent results in the constantly changing field of data base administration.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[steve@steveharville.com](mailto:steve@steveharville.com)
