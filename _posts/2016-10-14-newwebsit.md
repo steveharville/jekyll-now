@@ -3,5 +3,5 @@ layout: post
 title: Oracle GoldenGate 12c Fundamentals for Oracle Ed 1 LVC
 ---
 
-review
+This is a placeholder for my review of this class.
 
