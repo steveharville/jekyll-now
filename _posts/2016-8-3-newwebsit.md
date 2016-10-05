@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post
+title: Oracle GoldenGate 12c: Fundamentals for Oracle Ed 1 LVC
 ---
 
 review
