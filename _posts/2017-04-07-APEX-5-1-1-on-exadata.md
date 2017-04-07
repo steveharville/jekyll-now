@@ -13,7 +13,7 @@ Since this APEX system is only used by our DBA team and is not exposed to outsid
 
 What to do? We decided to move forward with the Embedded PL/SQL Gateway and see how useable it would be. We could always spin up another virtual machine later if we needed to go the Rest Data Services route. I went through the steps in the APEX documentation to set up the Embedded PL/SQL Gateway. I could not get a response when I hit the database machine APEX URL that I had configured. I poked around on the servers and noticed that the XML db listeners were not running. I had forgotten that when I created the DBA database I intentionally did not install any options like Java and XML db. After installing XML db and restarting the database APEX started working. (https://docs.oracle.com/database/121/ADXDB/appaman.htm#ADXDB2700)
 
-But that's not all - here's the real reason I wanted to blog about this. This APEX system is reachable using the scan listener! So that scary quote in the documentation should be ignored. We can connect using a URL like this: http://corpexa-scan-corp.com:8080/apex . No server names are required. So we CAN take advantage of RAC functionality.
+But that's not all - here's the real reason I wanted to blog about this. This APEX system is reachable using the scan listener! So that scary quote in the documentation should be ignored. We can connect using a URL like this: http://corpexa-scan.corp.com:8080/apex . No server names are required. So we CAN take advantage of RAC functionality.
 
 This is just what we wanted so we are very satisfied with our new APEX system.
 
