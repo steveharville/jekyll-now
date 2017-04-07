@@ -5,7 +5,7 @@ title: Oracle Application Express 5.1.1 on Exadata cluster
 
 Our DBA team really likes using APEX to develop DBA applications. We are a pretty small team and we like to automate and standardize everything we do. We make a habit of using database tables to store our configuration information and we write scripts that read those DBA tables in order to support our business users.
 
-We recently took control of a new Exadata cluster and of course we created a DBA repository database as we were creating the business databases.Since APEX 5.1.1 was just released, we decided to replace our old APEX system. That system was was a single instance running on a virtual machine and controlled by an outsourced administration team. We are a lot more comfortable having control over installation and maintenance of a system we depend on to get our work done.
+We recently took control of a new Exadata cluster and of course we created a DBA repository database as we were creating the business databases. Since APEX 5.1.1 was just released, we decided to replace our old APEX system. That system was was a single instance running on a virtual machine and controlled by an outsourced administration team. We are a lot more comfortable having control over installation and maintenance of a system we depend on to get our work done.
 
 The new Exadata is a four node RAC and our new DBA repository has an instance running on each node. We did not want to install software on the Exadata so that ruled out using Rest Data Services (aka APEX Listener). It also ruled out using Oracle HTTP Server with mod_plsql.
 
