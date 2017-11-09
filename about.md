@@ -14,4 +14,5 @@ Steve is an experienced database administrator and lifetime learner in the Oracl
 ### Contact Steve
 
 [steve@steveharville.com](mailto:steve@steveharville.com)
-[Resume]({{ https://drive.google.com/open?id=14EC_2qp0C-Wa5tCxDFPuJEdfUP-Syalz }})
+
+[Resume]({{ "https://drive.google.com/open?id=14EC_2qp0C-Wa5tCxDFPuJEdfUP-Syalz" }})
