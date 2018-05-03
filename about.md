@@ -14,16 +14,16 @@ Steve is an experienced database administrator and lifetime learner in the Oracl
 
 ### Contact Steve
 
-[steve@steveharville.com](mailto:steve@steveharville.com)
+[Steve@SteveHarville.com](mailto:steve@steveharville.com)
 
-[blog.steveharville.com](https://blog.steveharville.com)
+[Blog](https://steveharville.wordpress.com)
 
-[linkedin.steveharville.com](https://linkedin.steveharville.com)
+[LinkedIn](https://linkedin.com/in/steveharvilleoracledba)
 
-[tweet.steveharville.com](https://tweet.steveharville.com)
+[Twitter](https://twitter.com/SteveHarville)
 
-[about.steveharville.com](https://about.steveharville.com)
+[About](https://steveharville.github.io/about/)
 
-[What-Makes-Steve-Steve.steveharville.com](https://What-Makes-Steve-Steve.steveharville.com)
+[What makes Steve, Steve](https://steveharville.github.io/)
 
-[resume.steveharville.com](https://resume.steveharville.com)
+[Resume](https://drive.google.com/open?id=14EC_2qp0C-Wa5tCxDFPuJEdfUP-Syalz)
