@@ -26,6 +26,6 @@ Steve is an experienced database administrator and lifetime learner in the Oracl
 
 [What makes Steve, Steve](https://steveharville.github.io/)
 
-[Resume](https://drive.google.com/file/d/1ZKCKM5os4NSXGrEdLtJjfp4d53aolxMH/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1CKdpmovw1Yzf1brjYyM1WIpye1mqXycr/view?usp=sharing)
 
 <a class="twitter-timeline" data-height="1000" data-theme="light" href="https://twitter.com/SteveHarville?ref_src=twsrc%5Etfw">Tweets by SteveHarville</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
